@@ -1,0 +1,129 @@
+.nav-head-bar{
+    border: 9px solid #000000;
+    width: 97.50vw;
+    height: 10vh;
+    background-color: #C9E5FF;
+    display: inline-block;
+    position: relative;
+}
+
+.nav-head-bar img{
+    width: 4vw;
+    height: 6vh;
+    margin-left: 20px;
+    margin-top: 12px;
+    border: 3px solid black;
+    display: inline;
+    position: fixed;
+}
+
+#nav-head-bar #social-media-links a{
+    padding: 10px;
+    margin-left: 1148px;
+    margin-top: 12px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-decoration: none;
+    border: 3px solid black;
+    display: inline-block;
+    position: relative;
+}
+
+#gallery{background-color:#DBB74D; color:#000000;}
+
+.content-box{
+    background-color: #98caf9;
+    width: 98.90vw;
+    height: 73vh;
+    display: inline-block;
+    position: relative;
+}
+
+.bannerandslogan{
+    border: 14px solid #DBB74D;
+    width: 97.50vw;
+    height: 45vh;
+    background-color: #fae195;
+    display: inline-block;
+    position: fixed;
+}
+
+.bannerandslogan h1{
+    margin-left: 120px;
+    margin-top: 60px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.bannerandslogan h3{
+    margin-left: 120px;
+    margin-top: 60px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    position: relative;
+}
+
+.bannerandslogan p{
+    margin-top: 145px;
+    margin-left: 90px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.bannerandslogan img{
+    width: 25vw;
+    height: 40vh;
+    display: inline-block;
+    margin-left: 830px;
+    margin-top: 30px;
+    position: fixed;
+}
+
+.footer{
+    border: 9px solid black;
+    width: 97.50vw;
+    height: 10vh;
+    background-color: #C9E5FF;
+    display: inline-block;
+    position: fixed;
+}
+
+.footer p{
+    margin-left: 30px;
+    margin-top: 25px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    display: inline-block;
+    position: relative;
+}
+
+.footer a{
+    text-decoration: none;
+    color: #000000;
+}
+
+.social-media-links{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding: 5px;
+    margin-left: 650px;
+    margin-bottom: 50px;
+    display: inline-block;
+    position: relative;
+}
+
+.content-box1{
+    background-color: #98caf9;
+    width: 100vw;
+    height: 98vh;
+    display: inline-block;
+    position: fixed;
+}
+
+.content-box1 img{
+    margin-right: 10px;
+    margin-top: 30px;
+    margin-left: 200px;
+    align-items: center;
+    border: 9px solid #000000;
+    width: 10vw;
+    height: 20vh;
+    display: inline;
+    position: relative;
+}
+
+body{background-color: #000000;}
